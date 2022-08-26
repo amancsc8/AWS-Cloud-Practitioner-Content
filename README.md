@@ -2,9 +2,11 @@
 Notes compilation based on AWS E-Learning lessons and transcripts. 
 
 **List of modules**:  
-AWS Cloud Full
-AWS Cloud Practitioner 305 Practice Questions
-AWS Cloud Practitioner 430 Dump Questions
+
+
+AWS Cloud Practitioner 305 Practice Questions  
+AWS Cloud Practitioner 430 Dump Questions 
+
 Module 1 - Introduction to Amazon Web Services  
 Module 2 - Compute in the Cloud  
 Module 3 - Global Infrastructure and Reliability  
