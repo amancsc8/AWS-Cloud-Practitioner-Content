@@ -20,4 +20,4 @@ Module 10 - The Cloud Journey
 Module 11 - AWS Certified Cloud Practitioner Basics  
 Module 12 - Final Assessment  
 
-Last updated: 26th August 2022
+Last updated: 27th August 2022
